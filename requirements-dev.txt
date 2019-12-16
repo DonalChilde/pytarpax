@@ -1,0 +1,7 @@
+pylint
+pytest
+pytest-cov
+black
+tox
+coverage
+mypy

@@ -1,0 +1,8 @@
+{
+    "restructuredtext.confPath": "",
+    "python.pythonPath": "/home/chad/projects/pytarpax/.venv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.testing.pytestEnabled": true
+}
