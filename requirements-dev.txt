@@ -5,3 +5,4 @@ black
 tox
 coverage
 mypy
+sphinx
